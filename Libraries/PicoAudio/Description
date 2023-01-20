@@ -1,0 +1,6 @@
+The wave.py and chunk.py files were copied from the original MicroPython site and can be found here:
+https://github.com/micropython/micropython/blob/d3f6ce7dc31542d0962e3ca4c753f47a4ec4f818/docs/pyboard/tutorial/amp_skin.rst
+
+The myDMA.py, myPWM.py and wavePlayer.py files were copied courtesy of Daniel Perron and can be found here:
+https://github.com/danjperron/PicoAudioPWM
+
